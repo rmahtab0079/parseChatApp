@@ -6,5 +6,6 @@ target 'parseChatApp' do
   use_frameworks!
 
   # Pods for parseChatApp
+  pod 'Parse'
 
 end
